@@ -6,7 +6,7 @@ type Props = {}
 const Header = (props: Props) => {
   return (
     <div className='header'>
-      <h1>Conteudo do header</h1>
+      <h1>Trablahdno em equipe</h1>
 
     </div>
   )
