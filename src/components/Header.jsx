@@ -4,7 +4,10 @@ type Props = {}
 
 const Header = (props: Props) => {
   return (
-    <div>Header</div>
+    <div>
+      <h1>Conteudo do header</h1>
+
+    </div>
   )
 }
 
