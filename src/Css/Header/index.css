@@ -1,9 +1,10 @@
 .header {
-    background-color: #252525;
+    background-color: red;
     color: #fff;
 
     padding-top: 1rem;
     padding-bottom: 1rem;
+    z-index: 5000px;
 }
 
 h1 {
